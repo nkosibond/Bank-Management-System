@@ -1,0 +1,31 @@
+C:\Users\user-pc\source\repos\PRG2781 PROJECT\PRG2781 PROJECT\bin\Debug\PRG2781 PROJECT.exe.config
+C:\Users\user-pc\source\repos\PRG2781 PROJECT\PRG2781 PROJECT\bin\Debug\PRG2781 PROJECT.exe
+C:\Users\user-pc\source\repos\PRG2781 PROJECT\PRG2781 PROJECT\bin\Debug\PRG2781 PROJECT.pdb
+C:\Users\user-pc\source\repos\PRG2781 PROJECT\PRG2781 PROJECT\obj\Debug\PRG2781 PROJECT.csproj.AssemblyReference.cache
+C:\Users\user-pc\source\repos\PRG2781 PROJECT\PRG2781 PROJECT\obj\Debug\PRG2781 PROJECT.csproj.SuggestedBindingRedirects.cache
+C:\Users\user-pc\source\repos\PRG2781 PROJECT\PRG2781 PROJECT\obj\Debug\PRG2781 PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\source\repos\PRG2781 PROJECT\PRG2781 PROJECT\obj\Debug\PRG2781 PROJECT.exe
+C:\Users\user-pc\source\repos\PRG2781 PROJECT\PRG2781 PROJECT\obj\Debug\PRG2781 PROJECT.pdb
+C:\Users\ameri\Documents\SCHOOL\2023\3rd Quarter\PRG\Project\Group 6\PRG2781 PROJECT\obj\Debug\PRG2781 PROJECT.csproj.AssemblyReference.cache
+C:\Users\ameri\Documents\SCHOOL\2023\3rd Quarter\PRG\Project\Group 6\PRG2781 PROJECT\obj\Debug\PRG2781 PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\ameri\Documents\SCHOOL\2023\3rd Quarter\PRG\Project\Group 6\PRG2781 PROJECT\obj\Debug\PRG2781 PROJECT.exe
+C:\Users\ameri\Documents\SCHOOL\2023\3rd Quarter\PRG\Project\Group 6\PRG2781 PROJECT\obj\Debug\PRG2781 PROJECT.pdb
+C:\Users\ameri\Documents\SCHOOL\2023\3rd Quarter\PRG\Project\Group 6\PRG2781 PROJECT\bin\Debug\PRG2781 PROJECT.exe.config
+C:\Users\ameri\Documents\SCHOOL\2023\3rd Quarter\PRG\Project\Group 6\PRG2781 PROJECT\bin\Debug\PRG2781 PROJECT.exe
+C:\Users\ameri\Documents\SCHOOL\2023\3rd Quarter\PRG\Project\Group 6\PRG2781 PROJECT\bin\Debug\PRG2781 PROJECT.pdb
+C:\Users\acer\Desktop\PRG2781 PROJECT\bin\Debug\PRG2781 PROJECT.exe.config
+C:\Users\acer\Desktop\PRG2781 PROJECT\bin\Debug\PRG2781 PROJECT.exe
+C:\Users\acer\Desktop\PRG2781 PROJECT\bin\Debug\PRG2781 PROJECT.pdb
+C:\Users\acer\Desktop\PRG2781 PROJECT\obj\Debug\PRG2781 PROJECT.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\PRG2781 PROJECT\obj\Debug\PRG2781 PROJECT.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\Desktop\PRG2781 PROJECT\obj\Debug\PRG2781 PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\PRG2781 PROJECT\obj\Debug\PRG2781 PROJECT.exe
+C:\Users\acer\Desktop\PRG2781 PROJECT\obj\Debug\PRG2781 PROJECT.pdb
+C:\Users\Work\Downloads\PRG2781 PROJECT(correct_one)\PRG2781 PROJECT\bin\Debug\PRG2781 PROJECT.exe.config
+C:\Users\Work\Downloads\PRG2781 PROJECT(correct_one)\PRG2781 PROJECT\bin\Debug\PRG2781 PROJECT.exe
+C:\Users\Work\Downloads\PRG2781 PROJECT(correct_one)\PRG2781 PROJECT\bin\Debug\PRG2781 PROJECT.pdb
+C:\Users\Work\Downloads\PRG2781 PROJECT(correct_one)\PRG2781 PROJECT\obj\Debug\PRG2781 PROJECT.csproj.AssemblyReference.cache
+C:\Users\Work\Downloads\PRG2781 PROJECT(correct_one)\PRG2781 PROJECT\obj\Debug\PRG2781 PROJECT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Work\Downloads\PRG2781 PROJECT(correct_one)\PRG2781 PROJECT\obj\Debug\PRG2781 PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Work\Downloads\PRG2781 PROJECT(correct_one)\PRG2781 PROJECT\obj\Debug\PRG2781 PROJECT.exe
+C:\Users\Work\Downloads\PRG2781 PROJECT(correct_one)\PRG2781 PROJECT\obj\Debug\PRG2781 PROJECT.pdb
